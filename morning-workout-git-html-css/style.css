@@ -1,0 +1,24 @@
+a {
+    text-decoration: none;
+    color: crimson;
+}
+blockquote {
+    background-color: #eaeaea;
+}
+ .users span {
+     font-weight: bold;
+ }
+span {
+    color: crimson;
+}
+.creators {
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+}
+#cta {
+    color: crimson;
+    font-family: 'Lato', sans-serif;
+}
+li:nth-child(odd) {
+    text-decoration: underline;
+}
